@@ -22,8 +22,12 @@
   }
 </style>
 <link href="lib/style.css" rel="stylesheet">
+<script src="https://unpkg.com/@vkontakte/vk-bridge/dist/browser.min.js"></script>
 <script src="lib/createjs.min.js"></script>
 <script src="lib/game.min.js"></script>
+<script>
+  vkBridge.send("VKWebAppInit", {});
+</script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
