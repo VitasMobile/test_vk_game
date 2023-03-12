@@ -1,0 +1,270 @@
+{
+    "test": {
+        "ru": "Тест",
+        "en": "Test"
+    },
+    "exit from closeup": {
+        "ru": "Здесь все выполнено. Можно выходить!",
+        "en": "There’s nothing to do here. We can get out!"
+    },
+    "starting_location": {
+        "ru": "Локация с перевёрнутой лодкой",
+        "en": "The place where the upside down boat is"
+    },
+    "starting_location_return": {
+        "ru": "Вернись на локацию с перевёрнутой лодкой",
+        "en": "Go back to the location where there’s an upside down boat"
+    },
+    "location_1a": {
+        "ru": "Подойди ближе к этой лодке",
+        "en": "Come closer to that boat"
+    },
+    "location_1a_return": {
+        "ru": "Вернись на локацию с большой лодкой",
+        "en": "Go back to the location with the big boat"
+    },
+    "location_1b": {
+        "ru": "Подойти поближе к этим двум лодкам",
+        "en": "Come closer to these two boats"
+    },
+    "location_1b_return": {
+        "ru": "Вернись на локацию с досками для серфинга",
+        "en": "Go back to location with surfboard"
+    },
+    "location_1c": {
+        "ru": "Подойди к обломкам",
+        "en": "Come closer to these the wreckage"
+    },
+    "location_2": {
+        "ru": "Иди направо",
+        "en": "Go to the right"
+    },
+    "location_2_return": {
+        "ru": "Вернись на локацию с трубами",
+        "en": "Go back to the location with pipes"
+    },
+    "location_2a": {
+        "ru": "Подойди ближе к постройке",
+        "en": "Come closer to the building"
+    },
+    "location_3": {
+        "ru": "Подойди ближе к скалам",
+        "en": "Come closer to the rocks"
+    },
+    "fish_startingLocation": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    },
+    "take_axe": {
+        "ru": "Возьми молоток",
+        "en": "TeGrab the hammer"
+    },
+    "shell_location1b": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"shell_location1a": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"circle": {
+        "ru": "Возьми раковину мидии",
+        "en": "Grab the shell of mussel"
+    }
+    ,"direction_five_symbols_mg_hint": {
+        "ru": "Подсказка для головоломки",
+        "en": "Hint to the puzzle"
+    }
+    ,"direction_five_symbols_mg": {
+        "ru": "Головоломка",
+        "en": "The puzzle game"
+    }
+    ,"direction_five_symbols_mg_completed": {
+        "ru": "Подсказку для этой головоломки можно найти на этой локации",
+        "en": "The hint for this puzzle can be found at this location"
+    }
+    ,"fish0": {
+        "ru": "Здесь можно положить раковину",
+        "en": "Here you can put a seashell"
+    }
+    ,"fish1": {
+        "ru": "Здесь можно положить раковину",
+        "en": "Here you can put a seashell"
+    }
+    ,"fish2": {
+        "ru": "Здесь можно положить раковину",
+        "en": "Here you can put a seashell"
+    }
+    ,"fish3": {
+        "ru": "Здесь можно положить раковину",
+        "en": "Here you can put a seashell"
+    }
+    ,"clam_mg": {
+        "ru": "Большой камень",
+        "en": "The large stone"
+    }
+    ,"clam_mg_hint": {
+        "ru": "Камень покрыт грязью и мхом",
+        "en": "The stone is covered with mud and moss"
+    }
+    ,"applyCircleHint": {
+        "ru": "Соскреби грязь с камня с помощью раковины мидии",
+        "en": "Scrape the dirt off the stone with a mussel shell"
+    }
+    ,"stone_location2": {
+        "ru": "Возьми морскую звезду",
+        "en": "Pick up the starfish"
+    }
+    ,"stone_location3": {
+        "ru": "Возьми морскую звезду",
+        "en": "Pick up the starfish"
+    }
+    ,"first_mg_hint": {
+        "ru": "Подсказа для головоломки",
+        "en": "Hint to the puzzle"
+    }
+    ,"lifebuoy": {
+        "ru": "Спасательный круг",
+        "en": ""
+    }
+    ,"crag_mg": {
+        "ru": "Этот кусок камня выделяется",
+        "en": "This piece of stone stands out"
+    }
+    ,"crag_mg_hint": {
+        "ru": "Этот кусок словно приклеили",
+        "en": "This stone is like glued"
+    }
+    ,"applyAxeHint": {
+        "ru": "Примени молоток, чтоб сбить этот кусок",
+        "en": "Use the hammer to break this rock"
+    }
+    ,"shell0": {
+        "ru": "Здесь можно применить раковину",
+        "en": "Here you can apply a seashell"
+    }
+    ,"shell1": {
+        "ru": "Здесь можно применить раковину",
+        "en": "Here you can apply a seashell"
+    }
+    ,"shell2": {
+        "ru": "Здесь можно применить раковину",
+        "en": "Here you can apply a seashell"
+    }
+    ,"shell3": {
+        "ru": "Здесь можно применить раковину",
+        "en": "Here you can apply a seashell"
+    }
+    ,"five_tubes_mg_completed": {
+        "ru": "Измени высоту труб согласно подсказке",
+        "en": "Change the height of the pipes according to the hint"
+    }
+    ,"fish_location2": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"fish_location2a": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"stone0": {
+        "ru": "Здесь можно применить звезду",
+        "en": "Here you can apply a starfish"
+    }
+    ,"stone1": {
+        "ru": "Здесь можно применить звезду",
+        "en": "Here you can apply a starfish"
+    }
+    ,"stone2": {
+        "ru": "Здесь можно применить звезду",
+        "en": "Here you can apply a starfish"
+    }
+    ,"clout": {
+        "ru": "Возьми мокрую тряпку",
+        "en": "Pick up the wet rag"
+    }
+    ,"eight_circles_mg": {
+        "ru": "Головоломка",
+        "en": "The puzzle game"
+    }
+    ,"eight_circles_mg_completed": {
+        "ru": "Измени символы согласно подсказке",
+        "en": "Change symbols according to the hint"
+    }
+    ,"first_mg": {
+        "ru": "Головоломка",
+        "en": "The puzzle game"
+    }
+    ,"first_mg_completed": {
+        "ru": "Включи ячейки как на подсказке",
+        "en": "Enable cells as shown in the tooltip"
+    }
+    ,"shell_startingLocation": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"stone_mg": {
+        "ru": "Камень",
+        "en": "The stone"
+    }
+    ,"stone_mg_hint": {
+        "ru": "На камне легкий налет сухой грязи",
+        "en": "On the stone stain dry dirt"
+    }
+    ,"applyCloutHint": {
+        "ru": "Сотри грязь с помощью мокрой тряпки",
+        "en": "Wipe the dirt on stone with the wet rag"
+    }
+    ,"four_boards_mg": {
+        "ru": "Головоломка с досками для серфинга",
+        "en": "Puzzle game with surfboard"
+    }
+    ,"four_boards_mg_completed": {
+        "ru": "Измени рисунок на досках как на подсказке",
+        "en": "Change the picture on surfboards as on the hint"
+    }
+    ,"fish_location1b": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"stone_location1c": {
+        "ru": "Возьми морскую звезду",
+        "en": "Pick up the starfish"
+    }
+    ,"shell_location2a": {
+        "ru": "Возьми раковину",
+        "en": "Grab the seashell"
+    }
+    ,"rockDoor": {
+        "ru": "Иди сюда",
+        "en": "Come here"
+    }
+    ,"Not hints!": {
+        "ru": "Подсказок нет!",
+        "en": "There are no hints!"
+    }
+    ,"hint::ad done": {
+        "ru": "Спасибо! Награда получена! Можно использовать.",
+        "en": "Thank you! You got a hint! Use it."
+    }
+    ,"hint::ad canceled": {
+        "ru": "Очень жаль, но прервав рекламу, подсказку не получите!",
+        "en": "Sorry, but interrupting the advertisement, you don’t get a hint!"
+    }
+    ,"hint::ad fail": {
+        "ru": "Ошибка! Не удалось загрузить рекламу, повторите попытку попозже!",
+        "en": "Error! Failed to load the ad, try again later!"
+    }
+    ,"skip::ad done": {
+        "ru": "Спасибо! Головоломка решена! Можешь продолжить игру!",
+        "en": "Thank you! Puzzle solved! You can continue the game!"
+    }
+    ,"skip::ad canceled": {
+        "ru": "Головоломка решена! Можешь продолжить игру!",
+        "en": "Puzzle solved! You can continue the game!"
+    }
+    ,"skip::ad fail": {
+        "ru": "Ошибка! Не удалось загрузить рекламу, повторите попытку попозже!",
+        "en": "Error! Failed to load the ad, try again later!"
+    }
+}
